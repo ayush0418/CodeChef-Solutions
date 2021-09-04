@@ -13,3 +13,5 @@ CodeChef Starters 6 | https://github.com/ayush0418/CodeChef-Solutions/tree/maste
 CodeChef Starters 7 | https://github.com/ayush0418/CodeChef-Solutions/tree/master/CodeChef%20Starters%207 | START7C
 July Cook-Off 2021  | https://github.com/ayush0418/CodeChef-Solutions/tree/master/July%20Cook-Off%202021  | COOK131C
 July Lunchtime 2021 | https://github.com/ayush0418/CodeChef-Solutions/tree/master/July%20Lunchtime%202021 | LTIME98C
+Augstt Challenge 2021 | https://github.com/ayush0418/CodeChef-Solutions/tree/master/August%20Challenge%202021 | AUG21C
+August Cook-Off 2021 | https://github.com/ayush0418/CodeChef-Solutions/tree/master/August%20Cook-Off%202021 | COOK132C
