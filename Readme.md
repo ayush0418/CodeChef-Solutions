@@ -18,3 +18,4 @@ August Cook-Off 2021 | https://github.com/ayush0418/CodeChef-Solutions/tree/mast
 August Lunchtime 2021| https://github.com/ayush0418/CodeChef-Solutions/tree/master/August%20Lunchtime%202021 | LTIME99C
 CodeChef Starters 10 | https://github.com/ayush0418/CodeChef-Solutions/tree/master/CodeChef%20Starters%2010 | START10C
 September Challenge 2021 | https://github.com/ayush0418/CodeChef-Solutions/tree/master/September%20Challenge%202021 | SEPT21C
+September Cook-Off 2021 | https://github.com/ayush0418/CodeChef-Solutions/tree/master/September%20Cook-Off%202021 | COOK133C
