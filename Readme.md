@@ -21,3 +21,4 @@ September Challenge 2021 | https://github.com/ayush0418/CodeChef-Solutions/tree/
 September Cook-Off 2021 | https://github.com/ayush0418/CodeChef-Solutions/tree/master/September%20Cook-Off%202021 | COOK133C
 CodeChef Starters 12 | https://github.com/ayush0418/CodeChef-Solutions/tree/master/CodeChef%20Starters%2012 | START12C
 September Lunchtime 2021 | https://github.com/ayush0418/CodeChef-Solutions/tree/master/September%20Lunchtime%202021 | LTIME100C
+CodeChef Starters 13 | https://github.com/ayush0418/CodeChef-Solutions/tree/master/CodeChef%20Starters%2013 | START13C
