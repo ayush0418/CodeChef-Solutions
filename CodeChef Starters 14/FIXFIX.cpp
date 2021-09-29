@@ -25,6 +25,7 @@ int main(){
             for(int j=k+2;j<=n;j++){
                 cout<<j<<" ";
             }
+            
             int x = k+1;
             cout<<x<<"\n";
         }
