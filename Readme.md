@@ -24,3 +24,4 @@ September Lunchtime 2021 | https://github.com/ayush0418/CodeChef-Solutions/tree/
 CodeChef Starters 13 | https://github.com/ayush0418/CodeChef-Solutions/tree/master/CodeChef%20Starters%2013 | START13C
 CodeChef Starters 14 | https://github.com/ayush0418/CodeChef-Solutions/tree/master/CodeChef%20Starters%2014 | START14C
 SnackDown 2021 - Online Qualifiers | https://github.com/ayush0418/CodeChef-Solutions/tree/master/SnackDown%202021(Online%20Qualifiers) | SNCKQL21 
+CodeChef Starters 16 | https://github.com/ayush0418/CodeChef-Solutions/tree/master/CodeChef%20Starters%2016 | START16B
