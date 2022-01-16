@@ -25,3 +25,5 @@ CodeChef Starters 13 | https://github.com/ayush0418/CodeChef-Solutions/tree/mast
 CodeChef Starters 14 | https://github.com/ayush0418/CodeChef-Solutions/tree/master/CodeChef%20Starters%2014 | START14C
 SnackDown 2021 - Online Qualifiers | https://github.com/ayush0418/CodeChef-Solutions/tree/master/SnackDown%202021(Online%20Qualifiers) | SNCKQL21 
 CodeChef Starters 16 | https://github.com/ayush0418/CodeChef-Solutions/tree/master/CodeChef%20Starters%2016 | START16B
+CodeChef Starters 17 | https://github.com/ayush0418/CodeChef-Solutions/tree/master/CodeChef%20Starters%2017 | START17B
+SnackDown 2021 - Online Round 1A | https://github.com/ayush0418/CodeChef-Solutions/tree/master/SnackDown%202021(Online%20Round%201A) | SNCK1A21
