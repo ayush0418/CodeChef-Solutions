@@ -28,3 +28,7 @@ SnackDown 2021 - Online Qualifiers | https://github.com/ayush0418/CodeChef-Solut
 CodeChef Starters 16 | https://github.com/ayush0418/CodeChef-Solutions/tree/master/CodeChef%20Starters%2016 | START16B
 SnackDown 2021 - Online Round 1A | https://github.com/ayush0418/CodeChef-Solutions/tree/master/SnackDown%202021(Online%20Round%201A) | SNCK1A21
 CodeChef Starters 17 | https://github.com/ayush0418/CodeChef-Solutions/tree/master/CodeChef%20Starters%2017 | START17B
+January Long 2022 - II | https://github.com/ayush0418/CodeChef-Solutions/tree/master/January%20Long%202022%20-%20II | JAN222C
+CodeChef Starters 23 | https://github.com/ayush0418/CodeChef-Solutions/tree/master/CodeChef%20Starters%2023 | START23C 
+CodeChef Starters 26 | https://github.com/ayush0418/CodeChef-Solutions/tree/master/CodeChef%20Starters%2026 | START26C
+February Cook-Off 2022 | https://github.com/ayush0418/CodeChef-Solutions/tree/master/February%20Cook-Off%202022 | COOK138C
