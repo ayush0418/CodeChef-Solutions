@@ -32,3 +32,4 @@ January Long 2022 - II | https://github.com/ayush0418/CodeChef-Solutions/tree/ma
 CodeChef Starters 23 | https://github.com/ayush0418/CodeChef-Solutions/tree/master/CodeChef%20Starters%2023 | START23C 
 CodeChef Starters 26 | https://github.com/ayush0418/CodeChef-Solutions/tree/master/CodeChef%20Starters%2026 | START26C
 February Cook-Off 2022 | https://github.com/ayush0418/CodeChef-Solutions/tree/master/February%20Cook-Off%202022 | COOK138C
+CodeChef Starters 27 | https://github.com/ayush0418/CodeChef-Solutions/tree/master/CodeChef%20Starters%2027| START27C
